@@ -1,0 +1,284 @@
+"Pubmed-entry"::"="{
+   pmid 30410033,
+   "medent"{
+      "em std"{
+         year 2018,
+         month 11,
+         day 10,
+         hour 6,
+         minute 0
+      },
+      "cit"{
+         "title"{
+            "name""Multiple sclerosis."
+         },
+         "authors"{
+            "names std"{
+               {
+                  "name ml""Filippi M",
+                  "affil str""Neuroimaging Research Unit, Institute of Experimental
+ Neurology, Division of Neuroscience, San Raffaele Scientific Institute,
+ Vita-Salute San Raffaele University, Milan, Italy. filippi.massimo@hsr.it.;
+ Department of Neurology, Institute of Experimental Neurology, Division of
+ Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele
+ University, Milan, Italy. filippi.massimo@hsr.it."
+               },
+               {
+                  "name ml""Bar-Or A",
+                  "affil str""Department of Neurology and Center for
+ Neuroinflammation and Experimental Therapeutics, Perelman School of Medicine,
+ University of Pennsylvania, Philadelphia, PA, USA."
+               },
+               {
+                  "name ml""Piehl F",
+                  "affil str""Department of Clinical Neuroscience, Karolinska
+ Institute, Stockholm, Sweden.; Department of Neurology, Karolinska University
+ Hospital, Stockholm, Sweden.; Neuroimmunology Unit, Center for Molecular
+ Medicine, Karolinska University Hospital, Karolinska Institute, Stockholm,
+ Sweden."
+               },
+               {
+                  "name ml""Preziosa P",
+                  "affil str""Neuroimaging Research Unit, Institute of Experimental
+ Neurology, Division of Neuroscience, San Raffaele Scientific Institute,
+ Vita-Salute San Raffaele University, Milan, Italy.; Department of Neurology,
+ Institute of Experimental Neurology, Division of Neuroscience, San Raffaele
+ Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy."
+               },
+               {
+                  "name ml""Solari A",
+                  "affil str""Unit of Neuroepidemiology, Fondazione IRCCS Istituto
+ Neurologico Carlo Besta, Milan, Italy."
+               },
+               {
+                  "name ml""Vukusic S",
+                  "affil str""Service de Neurologie, Sclerose en Plaques, Pathologies
+ de la Myeline et Neuro-inflammation, Fondation Eugene Devic EDMUS Contre la
+ Sclerose en Plaques, Hopital Neurologique Pierre Wertheimer, Hospices Civils
+ de Lyon, Lyon, France."
+               },
+               {
+                  "name ml""Rocca MA",
+                  "affil str""Neuroimaging Research Unit, Institute of Experimental
+ Neurology, Division of Neuroscience, San Raffaele Scientific Institute,
+ Vita-Salute San Raffaele University, Milan, Italy.; Department of Neurology,
+ Institute of Experimental Neurology, Division of Neuroscience, San Raffaele
+ Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy."
+               }
+            }
+         },
+         "from journal"{
+            "title"{
+               "iso-jta""Nat Rev Dis Primers",
+               "ml-jta""Nat Rev Dis Primers",
+               "issn""2056-676X",
+               "name""Nature reviews. Disease primers"
+            },
+            "imp"{
+               "date std"{
+                  year 2018,
+                  month 11,
+                  day 8
+               },
+               "volume""4",
+               "issue""1",
+               "pages""43",
+               "language""eng",
+               "retract"{
+                  "type in-error",
+                  "exp""Nat Rev Dis Primers. 2018 Nov 22;4(1):49. PMID: 30467372"
+               },
+               "pubstatus epublish",
+               "history"{
+                  {
+                     "pubstatus other",
+                     "date std"{
+                        year 2018,
+                        month 11,
+                        day 10,
+                        hour 6,
+                        minute 0
+                     }
+                  },
+                  {
+                     "pubstatus pubmed",
+                     "date std"{
+                        year 2018,
+                        month 11,
+                        day 10,
+                        hour 6,
+                        minute 0
+                     }
+                  },
+                  {
+                     "pubstatus medline",
+                     "date std"{
+                        year 2019,
+                        month 9,
+                        day 26,
+                        hour 6,
+                        minute 0
+                     }
+                  }
+               }
+            }
+         },
+         "ids"{
+            pubmed 30410033,
+            "doi""10.1038/s41572-018-0041-4",
+            "pii""10.1038/s41572-018-0041-4",
+            "other"{
+               "db""ELocationID doi",
+               "tag str""10.1038/s41572-018-0041-4"
+            }
+         }
+      },
+      "abstract""Multiple sclerosis (MS) is the most common chronic inflammatory,
+ demyelinating and neurodegenerative disease of the central nervous system in
+ young adults. This disorder is a heterogeneous, multifactorial,
+ immune-mediated disease that is influenced by both genetic and environmental
+ factors. In most patients, reversible episodes of neurological dysfunction
+ lasting several days or weeks characterize the initial stages of the disease
+ (that is, clinically isolated syndrome and relapsing-remitting MS). Over
+ time, irreversible clinical and cognitive deficits develop. A minority of
+ patients have a progressive disease course from the onset. The pathological
+ hallmark of MS is the formation of demyelinating lesions in the brain and
+ spinal cord, which can be associated with neuro-axonal damage. Focal lesions
+ are thought to be caused by the infiltration of immune cells, including T
+ cells, B cells and myeloid cells, into the central nervous system parenchyma,
+ with associated injury. MS is associated with a substantial burden on society
+ owing to the high cost of the available treatments and poorer employment
+ prospects and job retention for patients and their caregivers.",
+      "mesh"{
+         {
+            "term""Azetidines",
+            "qual"{
+               {
+                  "subh""therapeutic use"
+               }
+            }
+         },
+         {
+            "term""Benzyl Compounds",
+            "qual"{
+               {
+                  "subh""therapeutic use"
+               }
+            }
+         },
+         {
+            "term""Demyelinating Diseases",
+            "qual"{
+               {
+                  "subh""complications"
+               }
+            }
+         },
+         {
+            "term""Humans"
+         },
+         {
+            "term""Indans",
+            "qual"{
+               {
+                  "subh""therapeutic use"
+               }
+            }
+         },
+         {
+            "term""Magnetic Resonance Imaging",
+            "qual"{
+               {
+                  "subh""methods"
+               }
+            }
+         },
+         {
+            "term""Multiple Sclerosis",
+            "qual"{
+               {
+                  "mp TRUE",
+                  "subh""diagnosis"
+               },
+               {
+                  "subh""epidemiology"
+               },
+               {
+                  "mp TRUE",
+                  "subh""therapy"
+               }
+            }
+         },
+         {
+            "term""Oxadiazoles",
+            "qual"{
+               {
+                  "subh""therapeutic use"
+               }
+            }
+         },
+         {
+            "term""Risk Factors"
+         },
+         {
+            "term""Thiazoles",
+            "qual"{
+               {
+                  "subh""therapeutic use"
+               }
+            }
+         },
+         {
+            "term""Tomography, X-Ray Computed",
+            "qual"{
+               {
+                  "subh""methods"
+               }
+            }
+         }
+      },
+      "substance"{
+         {
+            "type nameonly",
+            "name""Azetidines"
+         },
+         {
+            "type nameonly",
+            "name""Benzyl Compounds"
+         },
+         {
+            "type nameonly",
+            "name""Indans"
+         },
+         {
+            "type nameonly",
+            "name""Oxadiazoles"
+         },
+         {
+            "type nameonly",
+            "name""Thiazoles"
+         },
+         {
+            "type cas",
+            "cit""5G7AKV2MKP",
+            "name""ponesimod"
+         },
+         {
+            "type cas",
+            "cit""RR6P8L282I",
+            "name""siponimod"
+         },
+         {
+            "type cas",
+            "cit""Z80293URPV",
+            "name""ozanimod"
+         }
+      },
+      pmid 30410033,
+      "pub-type"{
+         "Journal Article",
+         "Review"
+      },
+      "status medline"
+   }
+}
