@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  phamaxselenium:
-    image: phamaxselenium
-    build:
-      context: .
-      dockerfile: ./Dockerfile
